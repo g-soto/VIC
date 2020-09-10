@@ -1,0 +1,40 @@
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.deps.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csprojAssemblyReference.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfoInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfo.cs
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csproj.CoreCompileInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.deps.json
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csprojAssemblyReference.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfo.cs
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.deps.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csprojAssemblyReference.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfoInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfo.cs
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csproj.CoreCompileInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.pdb
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.deps.json
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\bin\Debug\netstandard2.0\VICML.Model.pdb
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csprojAssemblyReference.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfoInputs.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.AssemblyInfo.cs
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.csproj.CoreCompileInputs.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VICML.Model\obj\Debug\netstandard2.0\VICML.Model.pdb

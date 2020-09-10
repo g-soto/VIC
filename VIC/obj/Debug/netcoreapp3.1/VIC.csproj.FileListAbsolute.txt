@@ -1,0 +1,189 @@
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.exe
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.deps.json
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.json
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.dev.json
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\VIC.pdb
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.csprojAssemblyReference.cache
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfoInputs.cache
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfo.cs
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.pdb
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.genruntimeconfig.cache
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CoreCompileInputs.cache
+D:\Code\Migue\Assignment_2\VIC\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CopyComplete
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.csprojAssemblyReference.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfoInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfo.cs
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CoreCompileInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.exe
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.deps.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.dev.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VIC.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CopyComplete
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\obj\Debug\netcoreapp3.1\VIC.genruntimeconfig.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\MLModel.zip
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC-master\VIC\bin\Debug\netcoreapp3.1\VICML.Model.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.exe
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.deps.json
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.json
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.dev.json
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VICML.Model.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VICML.Model.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csprojAssemblyReference.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfoInputs.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfo.cs
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CoreCompileInputs.cache
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CopyComplete
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.dll
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.pdb
+C:\Users\crash\Desktop\MCC-i\2doSemestre\Tecnicas Computacionales de Aprendizaje Automatico\Tarea 2\Github\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.genruntimeconfig.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\MLModel.zip
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.exe
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.deps.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.dev.json
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VICML.Model.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VICML.Model.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csprojAssemblyReference.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfoInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfo.cs
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CoreCompileInputs.cache
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CopyComplete
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.dll
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.pdb
+D:\Actividades\Maestría\Segundo semestre\Machine learning\Assignment_2\VIC-master\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.genruntimeconfig.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.exe
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.deps.json
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.json
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.runtimeconfig.dev.json
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\VIC.pdb
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csprojAssemblyReference.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfoInputs.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.AssemblyInfo.cs
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CopyComplete
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.pdb
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.genruntimeconfig.cache
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\Microsoft.ML.FastTree.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libFastTreeNative.so
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libFastTreeNative.dylib
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\FastTreeNative.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\FastTreeNative.dll
+D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\obj\Debug\netcoreapp3.1\VIC.csproj.CoreCompileInputs.cache
