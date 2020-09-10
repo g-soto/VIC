@@ -41,10 +41,12 @@ namespace VIC
             {
                 for (int p = 0; p < arr.GetUpperBound(0); ++p)
                 {
+                    string line = "";
                     for (int m = 0; m < arr.GetUpperBound(1); ++p)
                     {
-
+                        line += ',' + arr[p, m];
                     }
+                    writer.WriteLine(line.Substring(1));
                 }
 
             }

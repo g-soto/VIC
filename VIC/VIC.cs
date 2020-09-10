@@ -161,9 +161,9 @@ namespace VIC
 
             Clustering clustering = new Clustering();
 
-            Util.save2csv("2c.csv", vic(clustering.get2clustered, 2, 50, get_model, 7, mlContext, 2));
+            Util.save2csv("2c.csv", vic(clustering.get2clustered, 2, 50, get_model, 7, mlContext, 6));
 
-            Util.save2csv("3c.csv", vic(clustering.get2clustered, 3, 50, get_model, 7, mlContext, 2));
+            Util.save2csv("3c.csv", vic(clustering.get3clustered, 3, 50, get_model, 7, mlContext, 6));
 
         }
 
