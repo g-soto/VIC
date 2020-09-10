@@ -26,6 +26,8 @@ namespace VIC
         }
 
 
+        /*multi-class AUC from https://github.com/miguelmedinaperez/DTAE/blob/master/core/AUCCalculatorExtensions.cs*/
+        /****************************BEGINNING***********************************************/
         public class BasicEvaluation
         {
             public int TP = 0;
@@ -61,6 +63,10 @@ namespace VIC
             }
             return ComputeTwoClassAUC(eval);
         }
+        /******************************************************END********************************************/
+
+        /*compute the AUC of model in the trainingData2 with 10-folds cross validation.
+         * Number of clases in trainingData2 must be indicated in classNumber*/
 
         public static double CalculateModelAUC(MLContext mlContext, IEstimator<ITransformer> model, IDataView trainingData2, int classNumber)
         {
@@ -109,6 +115,19 @@ namespace VIC
             return aucValues / 10; //return mean AUC 
         }
 
+        /*VIC algorithm. 
+         * arguments
+         * get_cluster: a function that recive an int and return a corresponding partition in a IDataView form.
+         * number_of_clusters: number of clusters in the partitions.
+         * number_of_partitions: number of partitions that will be generated using get_cluster.
+         * get_model: a function that recive an int and a MLContext, and return a classificator in the MLContext.
+         * number_of_models: number of models that will be generated using get_model.
+         * mlContext: MLContext that will be used in the get_model function.
+         * core: number of parallel proccess for the VIC algorithm.
+         * 
+         * return
+         * bi-dimensional double array with number_of_partitions rows and number_of_models columns, with the AUC of each model for each partition.
+         * */
         static double[,] vic(Func<int, IDataView> get_cluster, int number_of_clusters, int number_of_partitions, Func<int, MLContext, IEstimator<ITransformer>> get_model, int number_of_models, MLContext mlContext, int cores = 7)
         {
 
@@ -142,29 +161,92 @@ namespace VIC
             return aucArray;
         }
 
+
+        /*function for the VIC algorithm
+         * return an element a model in "mlContext" depending of the "idx"
+         */
         public static IEstimator<ITransformer> get_model(int idx, MLContext mlContext)
         {
-            IEstimator<ITransformer>[] models = { mlContext.MulticlassClassification.Trainers.NaiveBayes(),
-                mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.FastTree()),
-                mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.FastForest()),
-                mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.LbfgsLogisticRegression()),
-                mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.AveragedPerceptron()),
-                mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.LinearSvm()),
-                mlContext.MulticlassClassification.Trainers.LbfgsMaximumEntropy() };
-            return models[idx];
+            switch (idx)
+            {
+                case 0:
+                    return mlContext.MulticlassClassification.Trainers.NaiveBayes();
+                case 1:
+                    return mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.FastTree());
+                case 2:
+                    return mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.FastForest());
+                case 3:
+                    return mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.LbfgsLogisticRegression());
+                case 4:
+                    return mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.AveragedPerceptron());
+                case 5:
+                    return mlContext.MulticlassClassification.Trainers.OneVersusAll(mlContext.BinaryClassification.Trainers.LinearSvm());
+                case 6:
+                    return mlContext.MulticlassClassification.Trainers.LbfgsMaximumEntropy();
+                default:
+                    return null;
+            }
         }
 
+        /*find the row wise maximun elements of a bidimensional array*/
+        public static double[] max_axis1(double[,] arr)
+        {
+            double[] rv = new double[arr.GetUpperBound(0)+1];
+            for (int p = 0; p<=arr.GetUpperBound(0); ++p)
+            {
+                rv[p] = arr[p, 0];
+                for (int m = 1; m<=arr.GetUpperBound(1); ++m)
+                {
+                    if (arr[p,m] > rv[p])
+                    {
+                        rv[p] = arr[p, m];
+                    }
+                }
+            }
+
+            return rv;
+        }
+
+        /*Write in the standard output a double array*/
+        public static void print(double[] arr)
+        {
+            string line = "";
+            for(int k =0; k<arr.Length; ++k)
+            {
+                line += "," + arr[k];
+            }
+            System.Console.WriteLine(line.Substring(1));
+        }
+
+
+        /*program's entry point. use VIC algorithm in partitions of 2 and 3 clusters. 
+         * Write the AUC of each classificator for each partitions to a csv file.
+         * Write to the standard output the VIC for each partition
+         */
         static void Main(string[] args)
         {
 
             MLContext mlContext = new MLContext(seed: 0);
 
-            Clustering clustering = new Clustering();
+            Clustering clustering = new Clustering(@"D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\data2.csv");
 
-            Util.save2csv("2c.csv", vic(clustering.get2clustered, 2, 50, get_model, 7, mlContext, 6));
+            double[,] AUCs2 = vic(clustering.get2clustered, 2, 50, get_model, 7, mlContext, 6);
 
-            Util.save2csv("3c.csv", vic(clustering.get3clustered, 3, 50, get_model, 7, mlContext, 6));
+            double[,] AUCs3 = vic(clustering.get3clustered, 3, 50, get_model, 7, mlContext, 6);
 
+            Util.save2csv("2c.csv", AUCs2);
+
+            Util.save2csv("3c.csv", AUCs3);
+
+            double[] vic2 = max_axis1(AUCs2);
+
+            double[] vic3 = max_axis1(AUCs3);
+
+            System.Console.WriteLine("VIC for 2-clusters partitions");
+            print(vic2);
+
+            System.Console.WriteLine("VIC for 3-clusters partitions");
+            print(vic3);
         }
 
 

@@ -9,13 +9,13 @@ namespace VIC
     {
         private List<List<Object>> sorted_data;
 
-        //########################Constructor#################################################
-        //public Clustering(string data_path= @"D:\Code\Migue\Assignment_2\VIC\VIC\data.csv")
-        public Clustering(string data_path = @"D:\Code\Migue\Assignment_2\VIC_classifiers\VIC\data2.csv")
+        public Clustering(string data_path)
         {
             sorted_data = load_csv(data_path);
         }
 
+
+        /*load a csv with the data into a List of Lists and sort it by the score_chage column*/
         private List<List<Object>> load_csv(string data_path)
         {
             System.IO.StreamReader file = new System.IO.StreamReader(data_path);
@@ -59,6 +59,10 @@ namespace VIC
             return data;
         }
 
+
+        /*cast numeric attributes from string to float, keep strings as strings and set missing values
+         * to a invalid number (-1).
+         */
         private Object fix_type(string element)
         {
             float numeric_rv;
@@ -78,6 +82,9 @@ namespace VIC
 
         //########################clustering#################################################
 
+        /*create partitions of 2 clusters. The partition returned is determinated by "cluster"
+         * 0<=cluster <50
+        */
         public IDataView get2clustered(int cluster)
         {
             if (cluster >= 50)
@@ -96,11 +103,17 @@ namespace VIC
 
         }
 
+        /*
+         * returns the number of divisions needed to obtain "c" diferenet partitions of 3 clusters
+         */
         private int cnt_seg(int c)
         {
             return (int)Math.Ceiling((Math.Sqrt(1 + 8 * c) + 3) / 2.0);
         }
 
+        /*
+         * Find the limits of the first and second cluster for the "cluster^th" partition. (for 3 clusters partitions)
+         */
         private int[] find_idx(int cluster, int segs)
         {
             int idx_1 = 0;
@@ -113,6 +126,10 @@ namespace VIC
             return new int[] { idx_1, segs - 1 - act_idx + cluster };
         }
 
+
+        /*create partitions of 3 clusters. The partition returned is determinated by "cluster"
+         * 0<=cluster <50
+         */
         public IDataView get3clustered(int cluster)
         {
             if (cluster >= 50)
@@ -133,6 +150,7 @@ namespace VIC
             MinutiaData[] in_memory = new MinutiaData[sorted_data.Count];
             for (int i = 0; i < sorted_data.Count; ++i)
             {
+                //labels for the clusters are are int (0,1,2)
                 if (i < end_1)
                 {
                     sorted_data[i][269] = 0;
@@ -147,10 +165,12 @@ namespace VIC
                 }
                 in_memory[i] = fromRow2Data(sorted_data[i]);
             }
-            clusters3idx_2 += 1;
             return new MLContext().Data.LoadFromEnumerable<MinutiaData>(in_memory);
         }
 
+        /*
+         * tranforms a List with attributes of a minutia in a MinutiaData Model for ML.NET
+         */
         private MinutiaData fromRow2Data(List<Object> row)
         {
             return new MinutiaData
@@ -181,6 +201,10 @@ namespace VIC
             };
         }
 
+        /*
+         * return a slice of a list in the form of a Object array
+         * starting in "start" (inclusive) and taking "amount" consecutive elements
+         */
         private Object[] slice(List<Object> row, int start, int amount)
         {
             Object[] rv = new Object[amount];
