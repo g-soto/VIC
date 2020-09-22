@@ -154,7 +154,7 @@ namespace VIC
                     }
                 }
 
-                aucArray[partition_number, model_number] = CalculateModelAUC(mlContext, get_model(model_number, mlContext), partitions_cache[partition_number], 2);
+                aucArray[partition_number, model_number] = CalculateModelAUC(mlContext, get_model(model_number, mlContext), partitions_cache[partition_number], number_of_clusters);
             });
 
 
